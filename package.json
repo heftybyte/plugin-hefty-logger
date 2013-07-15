@@ -1,0 +1,11 @@
+{
+	"name": "plugin-hefty-logger",
+	"version": "0.0.1",
+	"main": "logger.js",
+	"dependencies": {
+		"winston": "*"
+	},
+	"plugin": {
+		"provides": ["hefty-logger"]
+	}
+}
